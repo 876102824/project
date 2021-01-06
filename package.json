@@ -17,7 +17,7 @@
     "@babel/preset-react": "^7.9.4",
     "@babel/runtime": "^7.9.2",
     "amfe-flexible": "^2.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-preset-mobx": "^2.0.0",
     "body-parser": "^1.19.0",
     "cube-ui": "~1.12.36",
